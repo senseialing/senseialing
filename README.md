@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Laravel framework, Antigravity AI platform, and Full-stack Web Development**
 
-- 👨‍💻 All of my projects are available at [blumjadi](blumjadi)
+- 👨‍💻 All of my projects are available at https://portofolio-rama-aditya.vercel.app/
 
 - 💬 Ask me about **Laravel, PHP, Web Development, UI/UX Design (Figma), and System Analysis**
 
